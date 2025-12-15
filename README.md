@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML CSS JavaScript
+🌱 I’m currently learning HTML CSS JavaScript
 - 💬 Ask me about ...
-- 📫 How to reach me: email: august.lyden@outlook.com
-- 😄 Pronouns: He/Him
+📫 How to reach me: email: august.lyden@outlook.com
+😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
