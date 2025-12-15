@@ -2,10 +2,10 @@
 
 I'm August Lydén
 
-🔭 I’m currently working on ...
-🌱 I’m currently learning HTML CSS JavaScript
-💬 Ask me about ...
-📫 How to reach me: august.lyden@outlook.com
-😄 Pronouns: He/Him
-⚡ Fun fact: ...
+- 🔭 **I’m working on getting better at frontend and backend development**
+- 🌱 **I’m learning HTML CSS JavaScript**
+- 💬 **Ask me about cats**
+- 📫 **How to reach me: email: august.lyden@outlook.com discord: kitsunedao_**
+- 😄 **Pronouns: He/Him**
+- ⚡ **Fun fact: ...**
 
